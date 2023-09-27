@@ -4,3 +4,4 @@ int main() {  // This is the starting point of our program.
     std::cout << "Hello, World!" << std::endl; //This tells the computer to show "Hello, World!" on the screen.
     return 0;
 }
+//Its cloned
